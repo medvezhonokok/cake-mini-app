@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cake-mini-app/static/css/main.1d766016.css",
-    "main.js": "/cake-mini-app/static/js/main.7980bed3.js",
+    "main.js": "/cake-mini-app/static/js/main.71be494c.js",
     "index.html": "/cake-mini-app/index.html",
     "main.1d766016.css.map": "/cake-mini-app/static/css/main.1d766016.css.map",
-    "main.7980bed3.js.map": "/cake-mini-app/static/js/main.7980bed3.js.map"
+    "main.71be494c.js.map": "/cake-mini-app/static/js/main.71be494c.js.map"
   },
   "entrypoints": [
     "static/css/main.1d766016.css",
-    "static/js/main.7980bed3.js"
+    "static/js/main.71be494c.js"
   ]
 }
